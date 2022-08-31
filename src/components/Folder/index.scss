@@ -1,0 +1,23 @@
+main {
+    padding: .5rem;
+    margin: .5rem;
+}
+
+.folder {
+    padding: .2rem;
+    color: #333;
+    cursor: pointer;
+}
+
+.folder::before {
+    content: '> ';
+
+}
+
+.item {
+    padding: .2rem;
+}
+
+.item::before {
+    content: ' ';
+}
