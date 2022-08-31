@@ -5,6 +5,7 @@ import { folderData } from './data';
 function App() {
   return (
     <div className='App'>
+      <h1>Simple Recursion with ReactJS</h1>
       <Folder data={folderData} />
     </div>
   );

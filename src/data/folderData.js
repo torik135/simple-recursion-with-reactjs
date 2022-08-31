@@ -54,8 +54,10 @@ const folderData = {
               items: [
                 { name: 'Folder.jsx', isFolder: false },
                 { name: 'index.js', isFolder: false },
+                { name: 'Folder.scss', isFolder: false },
               ],
             },
+            { name: 'index.js', isFolder: false }
           ],
         },
         {
